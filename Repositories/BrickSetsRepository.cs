@@ -1,6 +1,6 @@
 namespace Legos.Repositories
 {
-  public class SetsRepository
+  public class BrickSetsRepository
   {
 
   }
